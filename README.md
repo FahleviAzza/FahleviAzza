@@ -30,16 +30,16 @@ I love turning ideas into real working systems — from smart devices to beautif
 ---
 
 ### 📊 GitHub Insights
-![Aza's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Azza's GitHub stats](https://github-readme-stats.vercel.app/api?username=FahleviAzza&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FahleviAzza&layout=compact&theme=radical)
 
 ---
 
 ### 🌐 Connect with Me
 📧 **Email:** fachleviazza@gmail.com  
-💼 **LinkedIn:** [linkedin.com/in/fahlevi-azza](https://www.linkedin.com/in/fahlevi-azza-0a59ab337/) 
-📸 **Instagram:** [@pahlevi.azza](https://www.instagram.com/pahlevi.azza)  
+💼 **LinkedIn:** [linkedin.com/in/fahlevi-azza](https://www.linkedin.com/in/fahlevi-azza-0a59ab337)  
+📸 **Instagram:** [@pahlevi.azza](https://www.instagram.com/pahlevi.azza) 
 🌍 **Portfolio:** [yourwebsite.com](https://yourwebsite.com)
 
 ---
