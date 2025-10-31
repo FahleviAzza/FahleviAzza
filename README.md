@@ -1,3 +1,5 @@
+![Banner](https://raw.githubusercontent.com/FahleviAzza/FahleviAzza/main/github-header-banner.png)
+
 # 👋 Hi there, I'm Azza!
 
 💡 A passionate **IoT & Web Developer** from **SMK N 2 Yogyakarta**, majoring in **System Informatics, Network, and Application (SIJA)**.  
