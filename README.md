@@ -38,9 +38,9 @@ I love turning ideas into real working systems — from smart devices to beautif
 
 ### 🌐 Connect with Me
 📧 **Email:** fachleviazza@gmail.com  
-💼 **LinkedIn:** [linkedin.com/in/yourname](https://linkedin.com/in/fahlevi-azza)  
-📸 **Instagram:** [@your_ig_username](https://instagram.com/pahlevi.azza)  
-🌍 **Portfolio:** [yourwebsite.com](https://yourwebsite.com)
+💼 **LinkedIn:** https://linkedin.com/in/fahlevi-azza
+📸 **Instagram:** https://instagram.com/pahlevi.azza  
+🌍 **Portfolio:** https://yourwebsite.com)
 
 ---
 
